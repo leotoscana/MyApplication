@@ -12,7 +12,7 @@
         <ImageView
             android:layout_width="match_parent"
             android:layout_height="250dp"
-            android:src="@drawable/dog_face_1"
+            android:src="@drawable/hueso_dorado"
             android:id="@+id/image"
             />
 
